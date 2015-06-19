@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Kshiteesh's Blog
+description:      Travel Stories and more.
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -9,10 +9,10 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Kshiteesh Hegde
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "PhD Student in Computer Science at Rensselaer."
+  email:          kshiteesh@hegde.me
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -23,7 +23,7 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +KshiteeshHegde
 
 # Background image to be tiled on all pages
 background: 
