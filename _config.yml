@@ -12,18 +12,18 @@ owner:
   name:           Kshiteesh Hegde
   avatar:         200.png
   bio:            "PhD Student in Computer Science at Rensselaer."
-  email:          kshiteesh@hegde.me
+  email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        kshiteeshspeaks
   facebook:       
   github:         kshiteesh
   stackexchange:  
   linkedin:       hegdekshiteesh
-  instagram:      kshiteeshspeaks
+  instagram:      
   flickr:         kshiteesh
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +KshiteeshHegde
+  google_plus:    
 
 # Background image to be tiled on all pages
 background:       black.png
