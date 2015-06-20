@@ -20,19 +20,27 @@ Feel free to [email me](mailto:kshiteesh@hegde.me) if you have anything to say. 
 
 Have a nice day!  
 
-<div class="row">
-	<div id="pre-subscribe">
-		<p>If you want to be notified when there is a new blog post, please sign up here!</p>
-		<form action="//hegde.us10.list-manage.com/subscribe/post-json?u=def4dd9781daa1f9d44dc7676&amp;id=d57ca91cf1&c=?" method="get">
-									<input type="email" name="EMAIL" id="email">
-									<button type="submit" class="button fa fa-angle-right" name="subscribe"></button>
-		</form>
+<div class="row" id="intro">
+	<div class="content">
+		<!-- Pre-Submission: This is what's displayed before the subscription form has been submitted. -->
+		<div id="pre-subscribe">
+			<div class="row" id="copy">
+				<p>If you want to be notified when there are new blog posts, sign up here!</p>
+			</div>
+
+			<div class="row" id="subscribe">
+				<form action="//rpi.us10.list-manage.com/subscribe/post-json?u=def4dd9781daa1f9d44dc7676&amp;id=d57ca91cf1&c=?" method="get">
+					<input type="email" name="EMAIL" id="email">
+					<button type="submit" class="button fa fa-angle-right" name="subscribe"></button>
+				</form>
+			</div>
+		</div>
+
+		<!-- Post Subscription: This is what’s displayed after the subscription form has been submitted.  -->
+		<div id="post-subscribe">
+			<div class="row" id="copy">
+				<h1>Thanks for <strong>signing up!</strong>. Check your email to <strong>confirm</strong> your subscription.</h1>
+			</div>
+		</div>
 	</div>
-	
-	<div id="post-subscribe">
-		<p>Thank you!</p>
-	</div>
-</div>  
-  
-  
- ---
+</div>
