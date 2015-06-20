@@ -19,3 +19,22 @@ During my leisure time, I love to watch soccer, F1 and tennis. I also try to tra
 Feel free to [email me](mailto:kshiteesh@hegde.me) if you have anything to say. Alternatively, you can use the appropriate comments sections if you have specific things to say about my posts.   
 
 Have a nice day!  
+
+<div id="pre-subscribe">
+	<div class="row" id="copy">
+			<p>If you want to be notified when there is a new blow post, please sign up here!</p>
+    </div>
+	<div class="row" id="subscribe">
+			<!-- MailChimp: Replace all the XXX’s with your own MailChimp signup URL and list ID’s. -->
+			<form action="//rpi.us10.list-manage.com/subscribe/post-json?u=def4dd9781daa1f9d44dc7676&amp;id=d57ca91cf1&c=?" method="get">
+				<input type="email" name="EMAIL" id="email">
+				<button type="submit" class="button icon submit" name="subscribe"></button>
+			</form>
+	</div> 
+</div>	
+
+<div id="post-subscribe">
+			<div class="row" id="copy">
+				<h1>Thanks for <strong>signing up!</strong>. Check your email to <strong>confirm</strong> your subscription.</h1>
+			</div>
+</div>

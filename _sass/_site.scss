@@ -54,3 +54,77 @@
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a {
 	@include transition(all .2s ease);
 }
+
+/***********************************************************************************
+  
+Post Subscribe
+  
+************************************************************************************/
+
+#post-subscribe h1 {
+    margin-bottom: 32px;
+}
+
+/***********************************************************************************
+  
+Subscribe
+  
+************************************************************************************/
+
+#subscribe {
+    margin: 15px 0 40px;
+}
+
+input[type="text"],
+input[type="email"] {
+    background: none;
+    outline: none;
+    
+    border-radius: 20px 0 0 20px;
+    border: none;
+    border: 1px solid;
+    
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 38px;
+    
+    width: 200px;
+    height: 38px;
+    
+    padding: 0 20px;
+    
+    -webkit-appearance: none;
+}
+
+input:focus {
+    outline: 0;
+}
+
+.button {
+    outline: none;
+    
+    border-radius: 50%;
+    border: none;
+    
+    font-size: 38px;
+    line-height: 19px;
+    text-align: center;
+    
+    width: 40px;
+    height: 40px;
+    
+    padding: 0;
+    
+    position: absolute;
+    top: 0;
+    left: 221px;
+    
+    cursor: pointer;
+    
+    transition-duration: 0.25s;
+}
+
+#post-subscribe {
+    display: none;
+}
