@@ -98,7 +98,7 @@ input:focus {
     
     position: absolute;
     top: 1;
-    left: 200px;
+    left: 180px;
     
     cursor: pointer;
     
@@ -122,11 +122,11 @@ input[type="email"] {
 }
 
 :-moz-placeholder { 
-   color: rgba(0, 0, 0, 0.85); 
+   color: rgba(0, 255, 0, 0.85); 
 }
 
 ::-moz-placeholder {
-   color: rgba(0, 0, 0, 0.85);  
+   color: rgba(255, 255, 0, 0.85);  
 }
 
 :-ms-input-placeholder {  
