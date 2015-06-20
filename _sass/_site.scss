@@ -115,11 +115,15 @@ input[type="text"],
 input[type="email"] {
     border-color: #000000;
     color: rgba(0, 0, 0, 0.85);
+	font-style: normal; 
+    font-weight: normal;
 }
 
 .button {
     background-color: #000000;
     color: rgba(255, 255, 255, 0.55);
+	font-style: normal; 
+    font-weight: normal;
 }
 
 .button:hover {
@@ -131,36 +135,4 @@ input[type="email"] {
     width: 100%;
     float: left;
     position: relative;
-}
-
-/***********************************************************************************
-  
-Icons
-  
-************************************************************************************/
-
-@font-face { 
-    font-family: "ionicons"; 
-    src: url("../assets/icons/ionicons.eot?v=1.4.1"); 
-    src: url("../assets/icons/ionicons.eot?v=1.4.1#iefix") format("embedded-opentype"), 
-         url("../assets/icons/ionicons.ttf?v=1.4.1") format("truetype"), 
-         url("../assets/icons/ionicons.woff?v=1.4.1") format("woff"), 
-         url("../assets/icons/ionicons.svg?v=1.4.1#Ionicons") format("svg"); 
-    font-weight: normal; 
-    font-style: normal; 
-}
-
-.icon { 
-    font-family: "ionicons"; 
-    speak: none; 
-    font-style: normal; 
-    font-weight: normal; 
-    font-variant: normal; 
-    text-transform: none; 
-    text-rendering: auto; 
-    line-height: 1; 
-    -webkit-font-smoothing: antialiased; 
-    -moz-osx-font-smoothing: grayscale; 
-    
-    display: inline-block; 
 }
