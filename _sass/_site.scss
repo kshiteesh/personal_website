@@ -113,34 +113,34 @@ Forms
 
 input[type="text"],
 input[type="email"] {
-    border-color: #ffffff;
-    color: rgba(255, 255, 255, 0.85);
+    border-color: #000000;
+    color: rgba(0, 0, 0, 0.85);
 }
 
 ::-webkit-input-placeholder {
-   color: rgba(255, 255, 255, 0.85);
+   color: rgba(0, 0, 0, 0.85);
 }
 
 :-moz-placeholder { 
-   color: rgba(255, 255, 255, 0.85); 
+   color: rgba(0, 0, 0, 0.85); 
 }
 
 ::-moz-placeholder {
-   color: rgba(255, 255, 255, 0.85);  
+   color: rgba(0, 0, 0, 0.85);  
 }
 
 :-ms-input-placeholder {  
-   color: rgba(255, 255, 255, 0.85); 
+   color: rgba(0, 0, 0, 0.85); 
 }
 
 .button {
-    background-color: #ffffff;
+    background-color: #000000;
     color: rgba(0, 0, 0, 0.55);
 }
 
 .button:hover {
     background-color: #49b266;
-    color: #ffffff;
+    color: #000000;
 }
 
 .row {
