@@ -20,13 +20,18 @@ Feel free to [email me](mailto:kshiteesh@hegde.me) if you have anything to say. 
 
 Have a nice day!  
 
-If you want to be notified when there is a new blog post, please sign up here!  
-
 <div class="row">
-	<form action="//hegde.us10.list-manage.com/subscribe/post?u=def4dd9781daa1f9d44dc7676&amp;id=d57ca91cf1&c=?" method="get">
-								<input type="email" name="EMAIL" id="email">
-								<button type="submit" class="button fa fa-angle-right" value="Subscribe" name="subscribe"></button>
-	</form>
+	<div id="pre-subscribe">
+		<p>If you want to be notified when there is a new blog post, please sign up here!</p>
+		<form action="//hegde.us10.list-manage.com/subscribe/post-json?u=def4dd9781daa1f9d44dc7676&amp;id=d57ca91cf1&c=?" method="get">
+									<input type="email" name="EMAIL" id="email">
+									<button type="submit" class="button fa fa-angle-right" name="subscribe"></button>
+		</form>
+	</div>
+	
+	<div id="post-subscribe">
+		<p>Thank you!</p>
+	</div>
 </div>  
   
   
