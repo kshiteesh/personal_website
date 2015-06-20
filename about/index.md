@@ -20,19 +20,6 @@ Feel free to [email me](mailto:kshiteesh@hegde.me) if you have anything to say. 
 
 Have a nice day!  
 
-<div id="pre-subscribe">
-	<div class="row" id="copy">
-		<p>If you want to be notified when there are new blog posts, sign up here!</p>
-	</div>
-
-	<div class="row" id="subscribe">
-		<form action="//hegde.us10.list-manage.com/subscribe/post-json?u=def4dd9781daa1f9d44dc7676&amp;id=d57ca91cf1&c=?" method="get">
-			<input type="email" name="EMAIL" id="email">
-			<button type="submit" class="button fa fa-angle-right" name="subscribe"></button>
-		</form>
-	</div>
-</div>
-
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -41,13 +28,11 @@ Have a nice day!
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="//hegde.us10.list-manage.com/subscribe/post?u=def4dd9781daa1f9d44dc7676&amp;id=d57ca91cf1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="//hegde.us10.list-manage.com/subscribe/post?u=def4dd9781daa1f9d44dc7676&amp;id=d57ca91cf1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" placeholder="Valid Email Address" novalidate>
     <div id="mc_embed_signup_scroll">
 	
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
+	<label for="mce-EMAIL">If you would like to be notified when there are new blog posts, please sign up here</label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 	<div id="mce-responses" class="clear">
