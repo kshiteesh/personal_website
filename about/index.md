@@ -20,19 +20,21 @@ Feel free to [email me](mailto:kshiteesh@hegde.me) if you have anything to say. 
 
 Have a nice day!  
 
+If you would like to be notified when there are new blog posts, please sign up here with your (valid) email address:  
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+	#mc_embed_signup{background:#fff; clear:left; font:14px; }
+	#mc_embed_signup form {display:block; position:relative; text-align:left;}
+	#mc_embed_signup .button {clear:both; background-color: #aaa; border: 0 none; border-radius:4px; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: bold; height: 32px; line-height: 32px; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;}
 </style>
 <div id="mc_embed_signup">
 <form action="//hegde.us10.list-manage.com/subscribe/post?u=def4dd9781daa1f9d44dc7676&amp;id=d57ca91cf1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" placeholder="Valid Email Address" novalidate>
     <div id="mc_embed_signup_scroll">
 	
 <div class="mc-field-group">
-	<label for="mce-EMAIL">If you would like to be notified when there are new blog posts, please sign up here</label>
+	<label for="mce-EMAIL"> </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 	<div id="mce-responses" class="clear">
