@@ -4,7 +4,7 @@ title: Chikjājūr
 description: "My first incredible travel experience"
 tags: [travel, adventure]
 image:
-  background: triangular.png
+  background: black.png
 ---
 
 During Christmas of 2013, I was traveling to India (to visit family) from the US. My home is in a [remote place](https://en.wikipedia.org/wiki/Sirsi,_Karnataka) in southern India and road transport being the only way to get there. No trains and no planes. My travel itinerary was something like this flight: [JFK](http://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport)-[DOH](http://en.wikipedia.org/wiki/Doha_International_Airport)-[BLR](http://en.wikipedia.org/wiki/Kempegowda_International_Airport) and a train (6 hrs) to some [Haveri](http://en.wikipedia.org/wiki/Haveri) where my parents would receive me and drive us (2hrs) home. What ended up happening was something that I could never have imagined.
