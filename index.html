@@ -35,7 +35,8 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.content }}
+    {% assign excerpt = post.content | split: '</p>' %}
+	{{ excerpt.first | append: '</p>' }}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
