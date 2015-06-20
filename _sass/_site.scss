@@ -54,3 +54,97 @@
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a {
 	@include transition(all .2s ease);
 }
+
+input[type="text"],
+input[type="email"] {
+    background: none;
+    outline: none;
+    
+    border-radius: 20px 0 0 20px;
+    border: none;
+    border: 1px solid;
+    
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 38px;
+    
+    width: 200px;
+    height: 38px;
+    
+    padding: 0 20px;
+    
+    -webkit-appearance: none;
+}
+
+input:focus {
+    outline: 0;
+}
+
+.button {
+    outline: none;
+    
+    border-radius: 50%;
+    border: none;
+    
+    font-size: 38px;
+    line-height: 19px;
+    text-align: center;
+    
+    width: 40px;
+    height: 40px;
+    
+    padding: 0;
+    
+    position: absolute;
+    top: 0;
+    left: 221px;
+    
+    cursor: pointer;
+    
+    transition-duration: 0.25s;
+}
+
+/***********************************************************************************
+  
+Forms
+  
+************************************************************************************/
+
+input[type="text"],
+input[type="email"] {
+    border-color: #ffffff;
+    color: rgba(255, 255, 255, 0.85);
+}
+
+::-webkit-input-placeholder {
+   color: rgba(255, 255, 255, 0.85);
+}
+
+:-moz-placeholder { 
+   color: rgba(255, 255, 255, 0.85); 
+}
+
+::-moz-placeholder {
+   color: rgba(255, 255, 255, 0.85);  
+}
+
+:-ms-input-placeholder {  
+   color: rgba(255, 255, 255, 0.85); 
+}
+
+.button {
+    background-color: #ffffff;
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.button:hover {
+    background-color: #49b266;
+    color: #ffffff;
+}
+
+.row {
+    width: 100%;
+    float: left;
+    position: relative;
+}
