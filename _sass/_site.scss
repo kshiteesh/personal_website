@@ -166,3 +166,35 @@ input[type="email"] {
     background-color: #49b266;
     color: #000000;
 }
+
+/***********************************************************************************
+  
+Icons
+  
+************************************************************************************/
+
+@font-face { 
+    font-family: "ionicons"; 
+    src: url("../icons/ionicons.eot?v=1.4.1"); 
+    src: url("../icons/ionicons.eot?v=1.4.1#iefix") format("embedded-opentype"), 
+         url("../icons/ionicons.ttf?v=1.4.1") format("truetype"), 
+         url("../icons/ionicons.woff?v=1.4.1") format("woff"), 
+         url("../icons/ionicons.svg?v=1.4.1#Ionicons") format("svg"); 
+    font-weight: normal; 
+    font-style: normal; 
+}
+
+.icon { 
+    font-family: "ionicons"; 
+    speak: none; 
+    font-style: normal; 
+    font-weight: normal; 
+    font-variant: normal; 
+    text-transform: none; 
+    text-rendering: auto; 
+    line-height: 1; 
+    -webkit-font-smoothing: antialiased; 
+    -moz-osx-font-smoothing: grayscale; 
+    
+    display: inline-block; 
+}
