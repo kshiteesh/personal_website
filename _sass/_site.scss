@@ -97,7 +97,7 @@ input:focus {
     padding: 0;
     
     position: absolute;
-    top: 1;
+    top: -1;
     left: 180px;
     
     cursor: pointer;
@@ -117,30 +117,14 @@ input[type="email"] {
     color: rgba(0, 0, 0, 0.85);
 }
 
-::-webkit-input-placeholder {
-   color: rgba(0, 0, 0, 0.85);
-}
-
-:-moz-placeholder { 
-   color: rgba(0, 255, 0, 0.85); 
-}
-
-::-moz-placeholder {
-   color: rgba(255, 255, 0, 0.85);  
-}
-
-:-ms-input-placeholder {  
-   color: rgba(0, 0, 0, 0.85); 
-}
-
 .button {
     background-color: #000000;
-    color: rgba(0, 0, 0, 0.55);
+    color: rgba(255, 255, 255, 0.55);
 }
 
 .button:hover {
     background-color: #49b266;
-    color: #000000;
+    color: #ffffff;
 }
 
 .row {
