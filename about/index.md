@@ -25,7 +25,7 @@ If you want to be notified when there is a new blog post, please sign up here!
 <div class="row">
 	<form action="//hegde.us10.list-manage.com/subscribe/post?u=def4dd9781daa1f9d44dc7676&amp;id=d57ca91cf1&c=?" method="get">
 								<input type="email" name="EMAIL" id="email">
-								<button type="submit" class="button fa fa-fw fa-arrow-right" value="Subscribe" name="subscribe"></button>
+								<button type="submit" class="button fa fa-angle-right" value="Subscribe" name="subscribe"></button>
 	</form>
 </div>  
   
