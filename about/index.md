@@ -27,4 +27,7 @@ If you want to be notified when there is a new blog post, please sign up here!
 								<input type="email" name="EMAIL" id="email">
 								<button type="submit" class="button icon submit" value="Subscribe" name="subscribe"></button>
 	</form>
-</div>
+</div>  
+  
+  
+ ---
