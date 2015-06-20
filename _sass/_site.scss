@@ -97,7 +97,7 @@ input:focus {
     padding: 0;
     
     position: absolute;
-    top: -3;
+    top: -5;
     left: 180px;
     
     cursor: pointer;
@@ -115,15 +115,11 @@ input[type="text"],
 input[type="email"] {
     border-color: #000000;
     color: rgba(0, 0, 0, 0.85);
-	font-style: normal; 
-    font-weight: normal;
 }
 
 .button {
     background-color: #000000;
     color: rgba(255, 255, 255, 0.55);
-	font-style: normal; 
-    font-weight: normal;
 }
 
 .button:hover {
