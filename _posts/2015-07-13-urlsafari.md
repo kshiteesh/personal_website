@@ -18,9 +18,9 @@ Here is the edited script which saves all the tabs open in all Safari windows to
 Since I thought I would need this feature very often, I decided to assign a shortcut key to it. Now whenever I want to save my present session, I press `⌃S`. That's it. (I have set the default location to be the *Downloads* folder, but you can change it to say, *Desktop* if you want. See line number 58 in the above snippet.) I use the app [Quick Silver](http://qsapp.com) [^3] to do this since it doesn't require a lot of effort to set up.
 
 This is how the saved file looks:
-![Markdown Source](safarimarkdownsource.png)
+![Markdown Source](https://www.dropbox.com/s/g3yku9lejhuu05m/safarimarkdownsource.png?raw=1)
 And this is how the HTML looks:
-![HTML View](safarimarkdownview.png)
+![HTML View](https://www.dropbox.com/s/0gxjg07m2mz3e0u/safarimarkdownview.png?raw=1)
 
 Let me know in the comments below if you found this helpful or if you have any questions.
 
