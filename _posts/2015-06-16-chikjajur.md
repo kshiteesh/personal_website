@@ -40,7 +40,7 @@ The lethargy of the train only mirrored that of the people traveling in it. Ever
 **4:00 pm**  
 I decided to get a quick nap and when I woke up, I found that the train had stopped at a small town station. Even for this train, it felt like we were at this station for an eternity. I talked to my fellow passengers and they said that the *part of the train* that was supposed to go to [Haveri](http://en.wikipedia.org/wiki/Haveri) had already left. The carriage I was in, was going somewhere else. I hurriedly grabbed my baggage and got out of the train. So here I am stranded, outside this I-don't-know-where-I-am place.
 
-![Chikjajur Railway Station](https://www.dropbox.com/s/alk28kscy4pl6ql/chikjajur.jpg?raw=1)
+![Chikjajur Railway Station](https://www.dropbox.com/s/yy444yguih7h0xn/chikjajur.jpg?raw=1)
 
 I talked to some people and figured out that the nearest city was [Davangere](http://en.wikipedia.org/wiki/Davangere) and that there is a private bus service that would take me there. Had my uncle not given some money I would have been stranded here until police would find me after my parents filed a missing person complaint.
 
